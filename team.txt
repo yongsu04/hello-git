@@ -1,1 +1,1 @@
-Leader: Bob
+Leader: Alice, Bob
